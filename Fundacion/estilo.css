@@ -1,0 +1,13 @@
+#headerSpacer{
+	width: 100%;
+	height: 40px;
+}
+
+#imagenes{
+	width: 60%;
+	border-radius: 40px;
+}
+
+#enlace{
+	font-size: 20px;
+}
